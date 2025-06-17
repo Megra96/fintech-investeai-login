@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(135deg, #b4ebc4, #a4baa2);
+    font-family: 'Arial', sans-serif;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+h2 {
+    color: #03b568;
+    font-weight: bold;
+}
+
+.btn-primary {
+  background-color: #03b568;
+  border-color: #03b568;
+}
+
+.btn-primary:hover {
+  background-color: #03b568; /* uma variação mais escura para o hover */
+  border-color: #03b568;
+}
